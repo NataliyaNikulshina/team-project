@@ -1,7 +1,6 @@
 .card__icon{
-    background-image: url(../../../images/disabled.svg);
-    width: 64px;
-    height: 64px;
-    border-radius: 10px;
+   /* background-image: url(../../../images/disabled.svg);*/
+    width: 32px;
+    height: 32px;
     
 }
